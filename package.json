@@ -1,0 +1,21 @@
+{
+  "name": "hot-vs-cold-observables",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha index.spec.js"
+  },
+  "author": "Yann Eves",
+  "license": "UNLICENSED",
+  "description": "",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-sinon": "^2.8.1",
+    "mocha": "^3.2.0",
+    "rxjs": "^5.2.0",
+    "sinon": "^1.17.7"
+  }
+}
